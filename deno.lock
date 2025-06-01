@@ -1659,7 +1659,14 @@
       "dependencies": [
         "npm:@langchain/community@~0.3.34",
         "npm:@langchain/core@~0.3.42",
-        "npm:pdf-parse@^1.1.1"
+        "npm:@types/node@^22.13.11",
+        "npm:dotenv@^16.4.7",
+        "npm:faiss-node@~0.5.1",
+        "npm:langchain@~0.3.19",
+        "npm:pdf-parse@^1.1.1",
+        "npm:ts-node@^10.9.2",
+        "npm:tsx@^4.19.3",
+        "npm:typescript@^5.8.2"
       ]
     }
   }

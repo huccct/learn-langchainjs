@@ -1,0 +1,56 @@
+[
+  {
+    "type": "human",
+    "data": {
+      "content": "这个现象在文中有什么故事",
+      "additional_kwargs": {},
+      "response_metadata": {}
+    }
+  },
+  {
+    "type": "ai",
+    "data": {
+      "content": "在《球状闪电》中，文中描述了张彬讲述的一个富裕庄园主追寻失落酒瓶的故事。这个故事讲述了庄园主因为一瓶尝过的酒而执着追寻另一瓶的奇特经历，最终导致他失去所有财产，成为病魔缠身的老乞丐，最终在找到另一瓶酒后幸福地死去。",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "additional_kwargs": {},
+      "response_metadata": {}
+    }
+  },
+  {
+    "type": "human",
+    "data": {
+      "content": "什么是球状闪电？",
+      "additional_kwargs": {},
+      "response_metadata": {}
+    }
+  },
+  {
+    "type": "ai",
+    "data": {
+      "content": "根据原文描述，球状闪电是一种极其罕见的现象，是一种充满能量的电子的球状体，具有弯曲的空间，是灰色现实世界中的超现实存在。在小说中，球状闪电被描述为一个充满能量的弯曲的空间，一个似有似无的空泡，一个足球大小的电子。球状闪电在现实世界中很少被人注意，但却暗示着宇宙的博大和神秘，暗示着可能存在与我们现实世界完全不同的其他世界。球状闪电并不是小说中描述的那种东西，而是一个科学之谜，实验室中也能够复现，但仍有待彻底解开。",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "additional_kwargs": {},
+      "response_metadata": {}
+    }
+  },
+  {
+    "type": "human",
+    "data": {
+      "content": "什么是球状闪电？",
+      "additional_kwargs": {},
+      "response_metadata": {}
+    }
+  },
+  {
+    "type": "ai",
+    "data": {
+      "content": "根据原文描述，球状闪电是一种极其罕见的现象，是一种充满能量的电子的球状体，具有弯曲的空间，是灰色现实世界中的超现实存在。球状闪电被描绘为一个充满能量的弯曲空间，一个似有似无的空泡，一个足球大小的电子。这种现象暗示着宇宙的博大和神秘，及可能存在与现实世界完全不同的其他世界。",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "additional_kwargs": {},
+      "response_metadata": {}
+    }
+  }
+]
